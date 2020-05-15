@@ -28,7 +28,7 @@ twitter_username: leannethng
 github_username: leannethng
 
 # Build settings
-theme: minima
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 # Exclude from processing.
