@@ -2,8 +2,8 @@
 layout: post
 title:
 date: 2020-02-11 20:30:07 -0700
+tags: react superHi
 categories: superHi-Courses
-tags: react superHi wk1
 ---
 
 # Lost in Tokyo Notes
