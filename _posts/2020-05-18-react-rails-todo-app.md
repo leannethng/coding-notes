@@ -2,7 +2,7 @@
 layout: post
 title:
 date: 2020-05-18 10:45:38 -7000
-tags: rails react
+tags: rails react git devise
 categories: todo-app
 ---
 
@@ -15,12 +15,13 @@ categories: todo-app
 # Devise - hiding the secret key
 
 - Key wasn't hidden by default so I used it as a test of reverting commits
-- https://gist.github.com/CrookedNumber/8964442
-- https://superuser.com/questions/926915/how-can-i-delete-old-commits-in-github-via-terminal
-- https://devconnected.com/how-to-remove-files-from-git-commit/
-- http://www-cs-students.stanford.edu/~blynn/gitmagic/ch05.html#_8230_and_then_some
+- [Removing last commit](https://gist.github.com/CrookedNumber/8964442)
+- [Delete commits](https://superuser.com/questions/926915/how-can-i-delete-old-commits-in-github-via-terminal)
+- [Remove files from a git commit](https://devconnected.com/how-to-remove-files-from-git-commit/)
+- [Git Magic - Lessons in History](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch05.html#_8230_and_then_some)
+- [When to use git reset](https://dev.to/neshaz/when-to-use-git-reset-git-revert--git-checkout-18je)
 
-## Steps i ended with
+## Steps I ended with
 
 `git reset --soft <commit-number>`
 

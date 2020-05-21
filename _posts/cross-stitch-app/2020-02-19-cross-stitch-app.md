@@ -2,8 +2,8 @@
 layout: post
 title:
 date: 2020-02-19 20:30:07 -0700
-categories: Cross-Stitch-App
-tags: react crossStitch groupProject
+categories: Cross-Stitch-App react canvas
+tags: react crossStitch
 ---
 
 # Cross Stitch App

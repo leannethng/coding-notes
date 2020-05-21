@@ -2,7 +2,7 @@
 layout: post
 title:
 date: 2020-05-16 11:11:51 -7000
-tags: ruby superHi
+tags: ruby superHi web-scraper
 categories: superHi-Courses
 ---
 
