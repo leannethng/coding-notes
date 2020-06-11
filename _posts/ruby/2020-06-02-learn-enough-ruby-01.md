@@ -2,8 +2,8 @@
 layout: post
 title: Learn Enough Ruby - Chapters 1 - 4
 date: 2020-06-02 13:06:57 -7000
-tags: ruby
-categories: learn-enough
+tags: ruby learn-enough
+categories: ruby
 ---
 
 ## Regex
